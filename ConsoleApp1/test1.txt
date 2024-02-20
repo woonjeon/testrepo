@@ -1,1 +1,3 @@
-test1 from main
+test1 from main1
+test1 from main2
+test1 from main3
